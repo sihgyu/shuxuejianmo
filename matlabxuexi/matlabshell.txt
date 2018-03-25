@@ -1,4 +1,5 @@
-linspace (x1,x2,n) 从x1 到x2 分成 n份
+linspace (x1,x2,n) 从x1 到x2 分成 n份 
+linspace (x1,x2)  从x1到x2 分成100份
 rand  用于创建随机矩阵   eg: x = rand(2) 生成一个2*2 的随机矩阵 rand（2，3）生成一个2 列 3行的矩阵
 zeros 用来创建全0 矩阵 用法同rand
 save  可以通过save 命令保存变量到指定文件名中
